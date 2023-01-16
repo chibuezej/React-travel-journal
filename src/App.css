@@ -1,0 +1,16 @@
+body{
+  position: absolute;
+  max-width: 0;
+  height: 704px;
+  left: 35%;
+  top: 0;
+  background-color: #E5E5E5;
+}
+.App{
+  position: absolute;
+  width: 550px;
+  height: 711px;
+  left: 40%; 
+  top: 30px;
+  background-color: #ffffff;
+}
